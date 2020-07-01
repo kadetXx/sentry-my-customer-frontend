@@ -54,7 +54,7 @@
                                                 <div class="input-group input-group-merge">
                                                     <input type="email" id="email" name="email" class="form-control" >
                                                 </div> --}}
-                                                <label class="form-control-label mb-2">Phone Number</label>
+                                                <label class="form-control-label mt-0 mb-2">Phone Number</label>
                                                 <div class="input-group input-group-merge">
                                                     <div class="input-group-prepend">
 
